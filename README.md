@@ -31,8 +31,8 @@ I'm a **Front-End Developer** passionate about building beautiful, responsive, a
 | [Project 2]     | [Brief description, e.g., A real-time chat app using Vue.js and Firebase]   | ![Stars]    | ![Forks]    |
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiddler-D7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiddler-D7&layout=compact&theme=radical)
 
 ## 🔗 Let's Connect
 - [Portfolio](https://yourportfolio.com)
@@ -41,4 +41,4 @@ I'm a **Front-End Developer** passionate about building beautiful, responsive, a
 - [Email](mailto:youremail@example.com)
 
 ---
-⭐ From [yourusername](https://github.com/yourusername)
+⭐ From [Fiddler-D7](https://github.com/Fiddler-D7)
